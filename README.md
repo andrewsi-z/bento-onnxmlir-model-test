@@ -13,7 +13,9 @@ Since ONNX-MLIR is a recent project as of this writing, we suggest pulling in th
 
 Alternatively, docker images are available. See the links on the ONNX-MLIR project page.
 
-## Compiling the model
+## Compiling the model an running example
+
+See [resnet notebook](https://github.com/andrewsi-z/bento-onnxmlir-model-test/blob/41230432acf09d37562c5b65f2d575b6637ccc77/resnet50_onnxmlir.ipynb)
 
 
 
