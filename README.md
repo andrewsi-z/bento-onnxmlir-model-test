@@ -11,6 +11,8 @@ This project demonstrates using ONNX-MLIR to compile the resnet50 model from the
 Follow the install instructions. This will include installing prerequisites, including LLVM. 
 Since ONNX-MLIR is a recent project as of this writing, we suggest pulling in the most recent stable version.
 
+Alternatively, docker images are available. See the links on the ONNX-MLIR project page.
+
 ## Compiling the model
 
 
